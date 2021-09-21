@@ -5,4 +5,9 @@ My own testing
 
 See you tmmrw
 
+<<<<<<< HEAD
 I cant see.. ya.
+=======
+
+can you see me?
+>>>>>>> newBR
