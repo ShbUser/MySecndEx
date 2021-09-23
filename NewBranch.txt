@@ -1,3 +1,5 @@
 Its new Branch for Git Example
 
 this is shuhaib
+
+Clone based example	
